@@ -1,5 +1,10 @@
 # 💫 About Me:
 🪄 Building a Smart Fashion Mirror that mixes AI, computer vision & embedded magic<br>🤖 Coding, creating, and occasionally fighting with ROS2 nodes<br>👗 Founder of Stylny, where fashion meets tech-level <br>🛠️ Embedded systems girlie who jumps between STM32, ESP32 & Raspberry Pi like it’s nothing<br>📍 Tunisian, usually found debugging code at 2AM<br>✨ Designer at heart  logos, UI, posters
+<p align="center">
+  <img src="/Bannière LinkedIn Professionnelle Simple Rose (4).png
+" alt="Banner" width="100%" />
+</p>
+
 
 
 ## 🌐 Socials:
