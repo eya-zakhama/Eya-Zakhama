@@ -81,7 +81,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=F06292&center=true&width=500&lines=✨Thanks+for+visiting+my+profile—stay+stylish,+stay+smart✨;Feel+free+to+connect+with+me+for+collaborations!💕" alt="Closing Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=F06292&center=true&width=500&lines=✨Thanks+for+visiting+my+profile+,++stay+smart✨;Feel+free+to+connect+with+me+for+collaborations!💕" alt="Closing Message" />
 </p>
 
 <p align="center">
