@@ -68,9 +68,8 @@
 
 # ✍️ Dev Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose" height="50" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose" />
 </p>
-
 ---
 
 # 🔝 Top Contributed Repo
