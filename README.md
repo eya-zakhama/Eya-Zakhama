@@ -1,30 +1,78 @@
-# 💫 About Me:
-🪄 Building a Smart Fashion Mirror that mixes AI, computer vision & embedded magic<br>🤖 Coding, creating, and occasionally fighting with ROS2 nodes<br>👗 Founder of Stylny, where fashion meets tech-level <br>🛠️ Embedded systems girlie who jumps between STM32, ESP32 & Raspberry Pi like it’s nothing<br>📍 Tunisian, usually found debugging code at 2AM<br>✨ Designer at heart  logos, UI, posters
+<!-- 🌸 Banner -->
 <p align="center">
-  <img src="/Bannière LinkedIn Professionnelle Simple Rose (4).png
-" alt="Banner" width="100%" />
+  <img src="./Banniere.png" alt="Eya Banner" width="100%" />
 </p>
 
-
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/eyazakhama) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/eya.zakhama.2025/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/eya_zakhama/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eya-zakhama-232824285/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eya-zakhama&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=eya-zakhama&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eya-zakhama&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eya-zakhama&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
+<h1 align="center">💖 Hey, I'm <b>Eya Zakhama</b> 💖</h1>
+<h3 align="center">AI Vision • Embedded Systems • Fashion-Tech Innovator</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=eya-zakhama&icon=2&color=5)](https://visitcount.itsvg.in)
 
+# 💫 About Me  
+🪄 Building a **Smart Fashion Mirror** mixing AI, Computer Vision & embedded magic  
+🤖 Coding, creating, and sometimes fighting with rogue ROS2 nodes  
+👗 Founder of **Stylny**, where fashion meets tech-level  
+🛠️ Embedded systems girlie jumping between STM32, ESP32 & Raspberry Pi like it’s cardio  
+📍 Tunisian, usually found debugging at 2AM with iced coffee  
+✨ Designer at heart — logos, UI, posters, visuals… I do it all 💅  
 
+---
+
+# 🌐 Socials
+<p align="center">
+  <a href="https://www.behance.net/eyazakhama"><img src="https://img.shields.io/badge/Behance-ff77b7?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://www.facebook.com/eya.zakhama.2025/"><img src="https://img.shields.io/badge/Facebook-f28bbb?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/eya_zakhama/"><img src="https://img.shields.io/badge/Instagram-f06292?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eya-zakhama-232824285/"><img src="https://img.shields.io/badge/LinkedIn-ec407a?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+# 💻 Tech Stack  🌸
+<p align="center">
+  
+![C](https://img.shields.io/badge/C-ff8fab?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-ffb3d9?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-f7a4c6?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-f48fb1?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-f06292?style=for-the-badge&logo=flutter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-ff77b7?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-fc8ea9?style=for-the-badge&logo=ros&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-ff9ccf?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-ff8fab?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-f597b5?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-f06292?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-f48fb1?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-f06292?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+
+</p>
+
+---
+
+# 📊 GitHub Stats 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eya-zakhama&theme=rose_pine&hide_border=true&show_icons=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=eya-zakhama&theme=rose_pine&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-zakhama&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
+</p>
+
+---
+
+# ✍️ Dev Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose" />
+</p>
+
+---
+
+# 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=eya-zakhama&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile — stay stylish, stay smart ✨</p>
