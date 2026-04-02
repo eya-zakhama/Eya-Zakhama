@@ -13,12 +13,12 @@
 ---
 
 # 💫 About Me  
-🪄 Building a **Smart Fashion Mirror** mixing AI, Computer Vision & embedded magic  
-🤖 Coding, creating, and sometimes fighting with rogue ROS2 nodes  
-👗 Founder of **Stylny**, where fashion meets tech-level  
-🛠️ Embedded systems girlie jumping between STM32, ESP32 & Raspberry Pi like it's cardio  
-📍 Tunisian, usually found debugging at 2AM with iced coffee  
-✨ Designer at heart  logos, UI, posters, visuals… I do it all 💅  
+🚀 Building a Smart Fashion Mirror combining AI, Computer Vision, and embedded systems
+👗 Founder of Stylny, a fashion-tech startup merging AI with personalized styling
+🛠️ Embedded Systems Engineer working with STM32, ESP32, and Raspberry Pi
+🤖 Experienced with ROS2 and intelligent robotics systems
+✨ Creative designer skilled in branding and UI/UX
+📍 Based in Tunisia
 
 
 ---
