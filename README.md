@@ -14,10 +14,15 @@
 
 # 💫 About Me  
 🚀 Building a Smart Fashion Mirror combining AI, Computer Vision, and embedded systems
+
 👗 Founder of Stylny, a fashion-tech startup merging AI with personalized styling
+
 🛠️ Embedded Systems Engineer working with STM32, ESP32, and Raspberry Pi
+
 🤖 Experienced with ROS2 and intelligent robotics systems
+
 ✨ Creative designer skilled in branding and UI/UX
+
 📍 Based in Tunisia
 
 
