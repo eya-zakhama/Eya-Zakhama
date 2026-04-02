@@ -70,15 +70,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose" />
 </p>
-
-
-# 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=eya-zakhama&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" height="180" />
-</p>
-
-
-
 ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=F06292&center=true&width=500&lines=✨Thanks+for+visiting+my+profile+,++stay+smart✨;Feel+free+to+connect+with+me+for+collaborations!💕" alt="Closing Message" />
